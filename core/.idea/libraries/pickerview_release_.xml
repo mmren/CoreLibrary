@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="pickerview-release-">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/pickerview-release/res" />
+      <root url="jar://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/pickerview-release/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

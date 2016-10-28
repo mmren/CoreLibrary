@@ -1,0 +1,18 @@
+<resources>
+
+    <style name="text_000000_32">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#FF000000</item>
+    </style>
+
+    <style name="text_0080FC_34">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">#FF0080FC</item>
+    </style>
+
+    <style name="dialog_bg_style" parent="android:Animation">
+        <item name="@android:windowEnterAnimation">@anim/alpha_in</item>
+        <item name="@android:windowExitAnimation">@anim/alpha_out</item>
+    </style>
+
+</resources>

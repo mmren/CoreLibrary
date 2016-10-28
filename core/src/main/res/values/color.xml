@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_title_dark">#FF21242e</color>
+    <color name="transparent_bankcards">#00000000</color>
+    <color name="transparent_all">#00000000</color>
+    <color name="divider_dialog">#FFD2D2DA</color>
+    <color name="color_title">#404751</color>
+</resources>

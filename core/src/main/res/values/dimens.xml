@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="marg_50">25dp</dimen>
+    <dimen name="marg_100">50dp</dimen>
+    <dimen name="marg_80">40dp</dimen>
+</resources>
